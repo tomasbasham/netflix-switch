@@ -1,0 +1,9 @@
+<language en>
+<h1>Netflix Switch</h1>
+<p>An electronic schematic and PCB layout for a Netflix Switch.</p>
+<h2>Usage</h2>
+<h3>Code Installation</h3>
+<p>Install the <a href=“https://gist.github.com/tomasbasham/660c84c97bda9d8acb116062c2f56ae2”>code</a> on a Particle Photon using the <a href=“https://build.particle.io/build”>online editor</a>.</p>
+<h2>Printing</h2>
+<p>The easiest possible way to get a copy of this board printed is to have a PCB fabrication house do it for you. I have had an amazing experience using <a href=“https://oshpark.com/“>OSH Park</a> and highly recommend them. Simply upload the compressed gerber files to the website and they will print and ship them to you.</p>
+</language>
